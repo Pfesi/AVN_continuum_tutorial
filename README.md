@@ -1,4 +1,4 @@
-# AVN2019
+# AVN Continuum tutorial
 
 Data reduction tutorial of SARAO/HartRAO driftscan radio 
 data.
